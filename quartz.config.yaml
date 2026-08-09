@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: justlexx3-hue.github.io
+  baseUrl: https://justlexx3-hue.github.io/Revera
   ignorePatterns:
     - private
     - templates
